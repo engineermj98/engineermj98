@@ -5,11 +5,11 @@
     <img src="https://media.giphy.com/media/OExZy1LKUG8MHVb9mH/giphy.gif" width="270" />
     <img src="https://media.giphy.com/media/M9TraSZZ6csmhxyxRo/giphy.gif" width="270" />
 </div>
-
+<br>
 <div id="mid" align="center">
 🌱 Machine Learning 🤔 Artificial Intelligence ⚡ Object oriented coding 😄 Data Science
 </div>
-
+<br>
 <div id="skills" align="center">
     <h3>Tools and Languages</h3>
     <div>
@@ -20,13 +20,11 @@
          <img src="https://github.com/lpzgamer/lpzgamer/assets/91906153/c7fe547b-cc66-4601-9883-e2082bd4005c" title="aspnet" witdh="40" height="40"/>&nbsp;
     </div>
 </div>
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lpzgamer&theme=radical&border_radius=4.2&mode=weekly&type=png&border=F4E7C2&hide_current_streak=true)](https://git.io/streak-stats)
-![Github stats](https://github-readme-stats.vercel.app/api?username=lpzgamer&show_icons=true&theme=radical)
-<div id="header" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpzgamer&theme=outrun&hide_progress=true" width="270" />
+<br>
+<div id="stats" align="center">
+    <img src="https://streak-stats.demolab.com?user=lpzgamer&theme=radical&border_radius=4.2&mode=weekly&type=png&border=F4E7C2&hide_current_streak=true" width="270" height="100"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lpzgamer&show_icons=true&theme=radical" width="270" height="100" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpzgamer&theme=outrun&hide_progress=true" width="300" height="150" />
 </div>
 
 
