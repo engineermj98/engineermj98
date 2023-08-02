@@ -13,4 +13,6 @@
 - ⚡ Fun fact: ...
 -->
 🔭 I've worked on IT Reingenierías S. de R.L. as Data Analyst
-💬 I'm recently graduated from Computer Systems Engineering in Tecnológico Superior de Jalisco. I'm still learning to code and looking for new professional opportunities, my preferred programming languages are Python and Java focusing in 🌱 Machine Learning, 🤔 Artificial Intelligence, ⚡ Object oriented codes and 😄 Data Science!
+💬 I'm recently graduated from Computer Systems Engineering in Tecnológico Superior de Jalisco. I'm still learning to code and looking for new professional opportunities, my preferred programming languages are Python and Java ![image](https://github.com/lpzgamer/lpzgamer/assets/91906153/d90d61a9-daf5-472d-b50d-b3d848ca9891)
+ focusing in 🌱 Machine Learning, 🤔 Artificial Intelligence, ⚡ Object oriented codes and 😄 Data Science!
+
