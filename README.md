@@ -21,7 +21,7 @@
     </div>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lpzgamer&theme=ambient-gradient&border_radius=4.2&mode=weekly&type=png&border=F4F05B&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lpzgamer&theme=radical&border_radius=4.2&mode=weekly&type=png&border=F4E7C2&hide_current_streak=true)](https://git.io/streak-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lpzgamer&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpzgamer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
