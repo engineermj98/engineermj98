@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-    <h1 align="center">Hi there 👋 I'm a cool programming girl called Marijul!</h1>
+    <h1 align="center">Hi there 👋 I'm a programming girl called Marijul!</h1>
     <br>
     <img src="https://media.giphy.com/media/OExZy1LKUG8MHVb9mH/giphy.gif" width="270" />
     <img src="https://media.giphy.com/media/M9TraSZZ6csmhxyxRo/giphy.gif" width="270" />
@@ -21,7 +21,14 @@
     </div>
 </div>
 
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=lpzgamer&theme=radical&border_radius=4.2&mode=weekly&type=png&border=F4E7C2&hide_current_streak=true)](https://git.io/streak-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lpzgamer&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpzgamer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div id="header" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpzgamer&theme=outrun&hide_progress=true" width="270" />
+</div>
+
+
+
 
