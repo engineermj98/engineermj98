@@ -22,7 +22,7 @@
 </div>
 <br>
 <div id="stats" align="center">
-    <img src="https://streak-stats.demolab.com?user=engineermj98&theme=radical&border_radius=4.2&mode=weekly&type=png&border=F4E7C2&hide_current_streak=true" width="270" height="100"/>
+<img src="https://streak-stats.demolab.com?user=engineermj98&theme=radical" width="270" height="100"/>
     <img src="https://github-readme-stats.vercel.app/api?username=engineermj98&show_icons=true&theme=radical" width="270" height="100" /><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineermj98&theme=outrun&hide_progress=true" width="300" height="150" />
 </div>
